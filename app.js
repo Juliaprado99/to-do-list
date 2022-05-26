@@ -4,9 +4,6 @@ var valor = " ";
 let reset = document.getElementById("reset");
 
 
-git 
-
-
 function add() {
   valor = input.value;
   if (valor.length < 1) {

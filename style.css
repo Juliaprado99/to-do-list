@@ -27,6 +27,7 @@ body {
 #list{
     max-width: 60%;
     text-align: left;
+    margin: auto;
 }
 input[type="checkbox"]:checked + label {
   text-decoration: line-through;
