@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+  text-align: center;
+}
+.conteudo {
+  text-align: center;
+}
+#valor {
+  padding: 10px;
+  border-radius: 5px;
+  border: 2px rgb(32, 166, 32) solid;
+}
+
+#btn {
+  padding: 10px;
+  background-color: rgb(32, 166, 32);
+  border-radius: 5px;
+  border: rgb(32, 166, 32);
+}
+#btn:hover {
+  background-color: rgb(28, 191, 28);
+}
+
+input[type="checkbox"]:checked + label {
+  text-decoration: line-through;
+}
