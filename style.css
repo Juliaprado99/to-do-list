@@ -24,6 +24,10 @@ body {
   background-color: rgb(28, 191, 28);
 }
 
+#list{
+    max-width: 60%;
+    text-align: left;
+}
 input[type="checkbox"]:checked + label {
   text-decoration: line-through;
 }
